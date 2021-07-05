@@ -117,6 +117,21 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=casio-ka&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casio-ka&hide_border=true&layout=compact" align="rightr" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=casio-ka&hide_border=true&layout=compact" align="right" />  
+
+<br/>
 
 <br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+<div align="center"></div>
+<br />
+
+----
